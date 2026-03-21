@@ -38,7 +38,7 @@ I work across different roles depending on what the project needs — from **UI/
 - 🌱 I’m sharpening my skills in **Next.js**, **TypeScript**, and better frontend architecture
 - 🎮 I love dark, game-inspired UI styles and interactive visual experiences
 - 🛠 I enjoy turning rough ideas into polished products
-- 📫 Reach me at: **YOUR-EMAIL@gmail.com**
+- 📫 Reach me at: **chriswalterbautista@gmail.com**
 - 🌐 Portfolio: **Coming soon**
 - ⚡ Fun fact: I combine **designer thinking + developer execution**
 
