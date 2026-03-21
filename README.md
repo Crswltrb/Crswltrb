@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Chriswalter Bautista ⚡</h1>
+<h1 align="center"> Chriswalter Bautista </h1>
 <h3 align="center">UI/UX Designer • Frontend Developer • Creative Builder</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://dribbble.com/YOUR-DRIBBBLE" target="_blank">
     <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -32,15 +32,15 @@ I work across different roles depending on what the project needs — from **UI/
 
 ### 🧐 More About Me
 
-- 🎨 I design modern, clean, conversion-focused interfaces
-- 💻 I build responsive websites and frontend experiences
-- 🚀 I’m currently working on **CrawenPay**, **MonJeuMobile**, and gaming-style web concepts
-- 🌱 I’m sharpening my skills in **Next.js**, **TypeScript**, and better frontend architecture
-- 🎮 I love dark, game-inspired UI styles and interactive visual experiences
-- 🛠 I enjoy turning rough ideas into polished products
-- 📫 Reach me at: **YOUR-EMAIL@gmail.com**
-- 🌐 Portfolio: **Coming soon**
-- ⚡ Fun fact: I combine **designer thinking + developer execution**
+🎨 I design modern, clean, conversion-focused interfaces
+💻 I build responsive websites and frontend experiences
+🚀 I’m currently working on **CrawenPay**, **MonJeuMobile**, and gaming-style web concepts
+🌱 I’m sharpening my skills in **Next.js**, **TypeScript**, and better frontend architecture
+🎮 I love dark, game-inspired UI styles and interactive visual experiences
+🛠 I enjoy turning rough ideas into polished products
+📫 Reach me at: **YOUR-EMAIL@gmail.com**
+🌐 Portfolio: **Coming soon**
+⚡ Fun fact: I combine **designer thinking + developer execution**
 
 <br clear="right"/>
 
