@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Chriswalter Bautista ⚡</h1>
+<h1 align="center"> Chriswalter Bautista </h1>
 <h3 align="center">UI/UX Designer • Frontend Developer • Creative Builder</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://dribbble.com/YOUR-DRIBBBLE" target="_blank">
     <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:chriswalterbautista@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
