@@ -45,12 +45,18 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,firebase,supabase,git,github,vscode" />
 </p>
 
-### Web Platforms and CMS
+### Web Platforms, Hosting, and Automation
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress" />
   <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" height="48" />
   <img src="https://cdn.simpleicons.org/gutenberg/FFFFFF" alt="Gutenberg" height="48" />
   <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" alt="cPanel" height="48" />
+  <img src="https://cdn.simpleicons.org/namecheap/DE3723" alt="Namecheap" height="48" />
+  <img src="https://cdn.simpleicons.org/make/6D00CC" alt="Make.com" height="48" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="./assets/Gazduire.png" alt="Gazduire.net" height="48" />
+  <img src="./assets/Voluum%20API%20Logo.png" alt="Voluum API" height="48" />
 </p>
 
 ### Programming and Logic
