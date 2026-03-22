@@ -34,7 +34,7 @@
 
 Computer Science-trained builder from the **University of the Philippines Mindanao** with hands-on experience across **UI/UX design, frontend development, freelance web design, layout artistry, CAD drafting, e-commerce support, and multimedia production**. I enjoy turning raw ideas into polished, user-centered experiences that feel clear, fast, and memorable.
 
-## 🔍 Pokedex Entry
+## ⚡ Pokemon Profile
 
 - `Name:` Chriswalter Bautista
 - `Base:` Davao City, Philippines
@@ -49,14 +49,6 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 ### Frontend and Product
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,firebase,supabase,git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=F7D02C" />
 </p>
 
 ### Programming and Logic
