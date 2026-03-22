@@ -1,22 +1,16 @@
-<h1 align="center">Chriswalter Bautista</h1>
+<h1 align="center">⚡ Chriswalter Bautista ⚡</h1>
 <h3 align="center">UI/UX Designer • Frontend Developer • Creative Builder</h3>
 
 <p align="center">
-  <img alt="Electric Type" src="https://img.shields.io/badge/Main_Type-Electric-F7D02C?style=for-the-badge&logo=thunderbird&logoColor=1f1f1f" />
-  <img alt="UI UX and Frontend Focus" src="https://img.shields.io/badge/Focus-UI%2FUX_%2B_Frontend-111111?style=for-the-badge&logo=figma&logoColor=F7D02C" />
-  <img alt="Location Davao City PH" src="https://img.shields.io/badge/Location-Davao_City,_PH-F7D02C?style=for-the-badge&logo=googlemaps&logoColor=1f1f1f" />
+  <code>Electric Type</code>
+  <code>UI/UX + Frontend</code>
+  <code>Davao City, PH</code>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Crswltrb" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Crswltrb-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
-  </a>
-  <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chriswalter_Bautista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chriswalterbautista@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Say_Hello-111111?style=for-the-badge&logo=gmail&logoColor=F7D02C" />
-  </a>
+  <a href="https://github.com/Crswltrb">GitHub</a> •
+  <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b">LinkedIn</a> •
+  <a href="mailto:chriswalterbautista@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -51,15 +45,28 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,firebase,supabase,git,github,vscode" />
 </p>
 
+### Web Platforms and CMS
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" height="48" />
+  <img src="https://cdn.simpleicons.org/gutenberg/FFFFFF" alt="Gutenberg" height="48" />
+  <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" alt="cPanel" height="48" />
+</p>
+
 ### Programming and Logic
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php" />
 </p>
 
+### AI Workflow
+<p>
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" height="48" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" height="48" />
+</p>
+
 ### Design and Creative
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-  <img src="./assets/SaaS%20Logo%20HD.png" alt="Sass" height="48" />
   <img src="./assets/After%20Effects%20Logo.png" alt="After Effects" height="48" />
   <img src="./assets/Premiere%20Pro%20Logo.png" alt="Premiere Pro" height="48" />
   <img src="./assets/Lightroom%20Logo.png" alt="Lightroom" height="48" />
@@ -68,6 +75,11 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   <img src="./assets/Ulead%20VideoStudio%20Logo.jpg" alt="Ulead VideoStudio" height="48" />
   <img src="./assets/Proshow.png" alt="ProShow Producer" height="48" />
   <img src="./assets/AutoCAD%20logo.png" alt="AutoCAD" height="48" />
+</p>
+
+### Game and Interactive
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
 ---
