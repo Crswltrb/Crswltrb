@@ -126,7 +126,7 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
       <p align="center">
         <a href="https://github.com/Crswltrb/MonJeuMobile" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
+          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
@@ -139,7 +139,7 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
       <p align="center">
         <a href="https://github.com/Crswltrb/Dooeeads-Vas-Frontend" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-F4D03F?style=for-the-badge&logo=github&logoColor=1f1f1f" />
+          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
@@ -150,7 +150,7 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
       <p align="center">
         <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
+          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
@@ -174,7 +174,7 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
       <p align="center">
         <a href="https://himati-website-development.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F7D02C" />
+          <img src="https://img.shields.io/badge/View_Live-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
@@ -187,7 +187,7 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
       <p align="center">
         <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
+          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
@@ -197,7 +197,7 @@ Computer Science-trained builder from the **University of the Philippines Mindan
         More polished case studies, product concepts, and creative web builds are still on the way.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/In_Progress-111111?style=for-the-badge&logo=vercel&logoColor=F7D02C" />
+        <img src="https://img.shields.io/badge/In_Progress-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
       </p>
     </td>
   </tr>
