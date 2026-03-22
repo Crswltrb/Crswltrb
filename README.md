@@ -1,101 +1,108 @@
-<h1 align="center"> Chriswalter Bautista </h1>
+<h1 align="center">Chriswalter Bautista</h1>
 <h3 align="center">UI/UX Designer • Frontend Developer • Creative Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="Electric Type" src="https://img.shields.io/badge/Main_Type-Electric-F7D02C?style=for-the-badge&logo=thunderbird&logoColor=1f1f1f" />
+  <img alt="UI UX and Frontend Focus" src="https://img.shields.io/badge/Focus-UI%2FUX_%2B_Frontend-111111?style=for-the-badge&logo=figma&logoColor=F7D02C" />
+  <img alt="Location Davao City PH" src="https://img.shields.io/badge/Location-Davao_City,_PH-F7D02C?style=for-the-badge&logo=googlemaps&logoColor=1f1f1f" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Crswltrb" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Crswltrb-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
   </a>
-  <a href="https://www.behance.net/YOUR-BEHANCE" target="_blank">
-    <img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chriswalter_Bautista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dribbble.com/YOUR-DRIBBBLE" target="_blank">
-    <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-  </a>
-  <a href="mailto:chriswaltrbautista@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:chriswalterbautista@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Say_Hello-111111?style=for-the-badge&logo=gmail&logoColor=F7D02C" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+clean+interfaces+with+real+impact;Building+modern+web+experiences;UI%2FUX+%2B+Code+%2B+Creative+Execution;Frontend+Developer+with+a+designer's+eye;Currently+building+gaming+and+SaaS+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=F7D02C&center=true&vCenter=true&width=980&lines=Designing+clean+interfaces+with+electric+energy;Frontend+builder+with+a+creative+edge;UI%2FUX+%2B+code+%2B+branding+execution;Turning+rough+ideas+into+polished+digital+experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./assets/Pikachu%20Run%20Pixel%20Gif.gif" alt="Running Pikachu pixel art" width="300" />
+  <img src="./assets/Pikachu%20Pixel%20Game.gif" alt="Pikachu pixel art" width="300" />
 </p>
 
 ---
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
+## ⚡ Trainer Card
 
-## 👋 About Me
+Computer Science-trained builder from the **University of the Philippines Mindanao** with hands-on experience across **UI/UX design, frontend development, freelance web design, layout artistry, CAD drafting, e-commerce support, and multimedia production**. I enjoy turning raw ideas into polished, user-centered experiences that feel clear, fast, and memorable.
 
-I’m **Chriswalter**, a builder who blends **design, development, and creative execution**.
+## 🔍 Pokedex Entry
 
-I work across different roles depending on what the project needs — from **UI/UX design**, **frontend development**, **WordPress builds**, and **landing pages**, to **branding**, **ads**, and **web experiences** that actually look good and perform well.
+- `Name:` Chriswalter Bautista
+- `Base:` Davao City, Philippines
+- `Role Focus:` UI/UX design, frontend development, graphic design, web design, and creative support
+- `Education:` BS Computer Science, University of the Philippines Mindanao
+- `Special Moves:` UI/UX design, responsive web interfaces, branding, layout design, digital marketing creatives, and frontend execution
+- `Battle Style:` detail-focused, adaptable, collaborative, and strong in remote client work
+- `Language Levels:` English `Professional`, Tagalog `Native/Bilingual`, Hiligaynon `Native/Bilingual`, Cebuano `Limited Working`
 
-### 🧐 More About Me
+## 🧰 Thunder Toolkit
 
-- 🎨 I design modern, clean, conversion-focused interfaces
-- 💻 I build responsive websites and frontend experiences
-- 🚀 I’m currently working on **CrawenPay**, **MonJeuMobile**, and gaming-style web concepts
-- 🌱 I’m sharpening my skills in **Next.js**, **TypeScript**, and better frontend architecture
-- 🎮 I love dark, game-inspired UI styles and interactive visual experiences
-- 🛠 I enjoy turning rough ideas into polished products
-- 📫 Reach me at: **chriswalterbautista@gmail.com**
-- 🌐 Portfolio: **Coming soon**
-- ⚡ Fun fact: I combine **designer thinking + developer execution**
+### Frontend and Product
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,firebase,supabase,git,github,vscode" />
+</p>
 
-<br clear="right"/>
+<p>
+  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=F7D02C" />
+</p>
+
+### Programming and Logic
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php" />
+</p>
+
+### Design and Creative
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://img.shields.io/badge/SASS-111111?style=for-the-badge&logo=sass&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/AutoCAD-111111?style=for-the-badge&logo=autodesk&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/Premiere-111111?style=for-the-badge&logo=adobepremierepro&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/Lightroom-111111?style=for-the-badge&logo=adobelightroom&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/Filmora-111111?style=for-the-badge&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/Vegas_Pro-111111?style=for-the-badge&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/Ulead_VideoStudio-111111?style=for-the-badge&logoColor=F7D02C" />
+  <img src="https://img.shields.io/badge/ProShow_Producer-111111?style=for-the-badge&logoColor=F7D02C" />
+</p>
 
 ---
 
-## 🧠 Tech Stack
-
-### 🎨 Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
-
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend / CMS / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,wordpress,git,github,vscode,firebase" />
-</p>
-
-### 🧰 What I Use a Lot
-<p>
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forminator-1D4ED8?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_Design-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-0F172A?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🎮 Featured Builds
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">💸 CrawenPay</h3>
       <p align="center">
-        A budget tracker / finance-focused app with branding, responsive UI, and full product direction.
+        A finance-focused product concept where I combine structure, branding, and clear UI thinking.
       </p>
       <p align="center">
         <a href="https://github.com/Crswltrb/CrawenPay" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🎮 MonJeuMobile</h3>
       <p align="center">
-        A mobile gaming platform concept with a dark visual direction and game-inspired interface design.
+        A game-inspired mobile platform concept with bold visuals, dark UI, and interactive presentation.
       </p>
       <p align="center">
         <a href="https://github.com/Crswltrb/MonJeuMobile" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
         </a>
       </p>
     </td>
@@ -104,21 +111,21 @@ I work across different roles depending on what the project needs — from **UI/
     <td width="50%">
       <h3 align="center">🌌 Crawen</h3>
       <p align="center">
-        A creative web project focused on clean execution, structure, and modern frontend presentation.
+        A creative web build focused on clean execution, modern frontend presentation, and visual polish.
       </p>
       <p align="center">
         <a href="https://github.com/Crswltrb/Crawen" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-F4D03F?style=for-the-badge&logo=github&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎯 More Coming Soon</h3>
+      <h3 align="center">⚡ More Loading</h3>
       <p align="center">
-        More polished case-study style projects, UI showcases, and interactive experiences are on the way.
+        More polished case-study builds, UI showcases, and creative experiments are on the way.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/In_Progress-22C55E?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/In_Progress-111111?style=for-the-badge&logo=vercel&logoColor=F7D02C" />
       </p>
     </td>
   </tr>
@@ -126,51 +133,59 @@ I work across different roles depending on what the project needs — from **UI/
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Experience Snapshot
+
+- `Web Design:` responsive websites, landing pages, portfolio sites, and interface-focused builds for freelance and client work
+- `Frontend Work:` clean layouts, component-based UI, product pages, and web experiences designed to feel polished and easy to use
+- `Graphic and Layout Design:` merchandise, jerseys, hoodies, publication materials, business cards, logos, and visual branding systems
+- `Creative Support:` ad creatives, social content assets, short-form visuals, and campaign-oriented design work
+- `E-commerce and Operations:` online shop support, customer-facing workflows, listings, and marketplace-related tasks
+- `Technical and Drafting Work:` architectural drafting, plan revisions, and detail-oriented production work
+- `Multimedia Editing:` photo editing, video editing, and production-ready visual content using multiple editing tools
+
+---
+
+## 🏅 Professional Highlights
+
+- `Hackathon Builder:` contributed to award-winning app and product concepts focused on real-world problems and clear user experience
+- `Guest Speaker:` shared Firebase and app development knowledge in community learning events
+- `Creative Lead Experience:` handled visual direction, publication materials, and design execution for org and event initiatives
+- `Project Support:` helped shape product ideas, usability improvements, and practical digital tools
+- `Design Committee Work:` created visuals and branding assets for developer and tech community events
+
+---
+
+## 📊 Live GitHub Energy
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crswltrb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crswltrb&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crswltrb&show_icons=true&rank_icon=github&bg_color=00000000&title_color=F7D02C&text_color=F5F5F5&icon_color=F7D02C&border_color=F7D02C&cache_seconds=21600" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crswltrb&layout=compact&bg_color=00000000&title_color=F7D02C&text_color=F5F5F5&border_color=F7D02C&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Crswltrb&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Crswltrb&background=00000000&ring=F7D02C&fire=FFD43B&currStreakLabel=F7D02C&sideLabels=F5F5F5&dates=BDBDBD&sideNums=F5F5F5&currStreakNum=FFFFFF&border=F7D02C" />
+</p>
+
+<p align="center">
+  <i>These cards auto-update, but not in true real time. Public GitHub stats cards are cached, so refreshes can lag by hours.</i>
 </p>
 
 ---
 
-## 🛠 Current Focus
-
-- ⚡ Building polished frontend projects
-- 🎮 Creating gaming-inspired interfaces
-- 🎨 Improving visual systems and UI consistency
-- 📱 Making designs feel premium on both desktop and mobile
-- 🚀 Turning concepts into portfolio-worthy products
-
----
-
-## 🏆 Profile Highlights
+## ⚡ Pikachu Break
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Crswltrb&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="420" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Crswltrb/Crswltrb/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 🎵 Vibe
+## 🎵 Battle Theme
 
 <p align="center">
   <i>"Design it clean. Build it right. Make it memorable."</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Crswltrb&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Crswltrb&label=Trainer%20Visits&color=f7d02c&style=for-the-badge" alt="profile views" />
 </p>
