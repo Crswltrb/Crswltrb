@@ -207,10 +207,6 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 
 ## 🚀 Experience Snapshot
 
-<p align="center">
-  <img src="./assets/Pokemon%20GIF%20Pixel.gif" alt="Pokemon pixel divider" width="360" />
-</p>
-
 - `Web Design:` responsive websites, landing pages, portfolio sites, and interface-focused builds for freelance and client work
 - `Frontend Work:` clean layouts, component-based UI, product pages, and web experiences designed to feel polished and easy to use
 - `Graphic and Layout Design:` merchandise, jerseys, hoodies, publication materials, business cards, logos, and visual branding systems
@@ -218,6 +214,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 - `E-commerce and Operations:` online shop support, customer-facing workflows, listings, and marketplace-related tasks
 - `Technical and Drafting Work:` architectural drafting, plan revisions, and detail-oriented production work
 - `Multimedia Editing:` photo editing, video editing, and production-ready visual content using multiple editing tools
+
+<p align="center">
+  <img src="./assets/Pokemon%20GIF%20Pixel.gif" alt="Pokemon pixel divider" width="360" />
+</p>
 
 ---
 
@@ -250,16 +250,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 
 ## ⚡ Pikachu Break
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="./assets/Pokemon%208bit%20GIF.gif" alt="Pokemon 8-bit pixel animation" width="360" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="360" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/Pokemon%208bit%20GIF.gif" alt="Pokemon 8-bit pixel animation" width="360" height="360" />
+  <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="360" height="360" />
+</p>
 
 ---
 
