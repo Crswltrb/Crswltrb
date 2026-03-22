@@ -2,21 +2,27 @@
 <h3 align="center">UI/UX Designer • Frontend Developer • Creative Builder</h3>
 
 <p align="center">
-  <img alt="Main Type Electric" src="https://img.shields.io/badge/Main%20Type-Electric-F7D02C?style=flat-square&logo=thunderbird&logoColor=1A1A1A&labelColor=555555" />
-  <img alt="Focus UI UX and Frontend" src="https://img.shields.io/badge/Focus-UI%2FUX%20%2B%20Frontend-1A1A1A?style=flat-square&logo=figma&logoColor=F7D02C&labelColor=555555" />
-  <img alt="Location Davao City PH" src="https://img.shields.io/badge/Location-Davao%20City%2C%20PH-F7D02C?style=flat-square&logo=googlemaps&logoColor=1A1A1A&labelColor=555555" />
+  <img alt="Electric Type" src="https://img.shields.io/badge/Electric%20Type-1A1A1A?style=for-the-badge&logo=thunderbird&logoColor=F7D02C" />
+  <img alt="UI UX and Frontend" src="https://img.shields.io/badge/UI%2FUX%20%26%20Frontend-1A1A1A?style=for-the-badge&logo=figma&logoColor=F7D02C" />
+  <img alt="Davao City PH" src="https://img.shields.io/badge/Davao%20City%2C%20PH-1A1A1A?style=for-the-badge&logo=googlemaps&logoColor=F7D02C" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Crswltrb">
-    <img alt="GitHub Crswltrb" src="https://img.shields.io/badge/GitHub-Crswltrb-1A1A1A?style=flat-square&logo=github&logoColor=F7D02C&labelColor=1A1A1A" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=F7D02C" />
   </a>
   <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b">
-    <img alt="LinkedIn Chriswalter Bautista" src="https://img.shields.io/badge/LinkedIn-Chriswalter%20Bautista-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:chriswalterbautista@gmail.com">
-    <img alt="Email Say Hello" src="https://img.shields.io/badge/Email-Say%20Hello-1A1A1A?style=flat-square&logo=gmail&logoColor=F7D02C&labelColor=555555" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=F7D02C" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Crswltrb"><strong>@Crswltrb</strong></a> •
+  <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b"><strong>Chriswalter Bautista</strong></a> •
+  <a href="mailto:chriswalterbautista@gmail.com"><strong>Say Hello</strong></a>
 </p>
 
 <p align="center">
@@ -81,7 +87,6 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 ### Design and Creative
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,ai" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="48" />
   <img src="./assets/After%20Effects%20Logo.png" alt="After Effects" height="48" />
   <img src="./assets/Premiere%20Pro%20Logo.png" alt="Premiere Pro" height="48" />
   <img src="./assets/Lightroom%20Logo.png" alt="Lightroom" height="48" />
@@ -128,20 +133,68 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌌 Crawen</h3>
+      <h3 align="center">🧾 Vas Project</h3>
       <p align="center">
-        A creative web build focused on clean execution, modern frontend presentation, and visual polish.
+        A frontend project focused on clear layout structure, polished presentation, and practical product flow.
       </p>
       <p align="center">
-        <a href="https://github.com/Crswltrb/Crawen" target="_blank">
+        <a href="https://github.com/Crswltrb/Dooeeads-Vas-Frontend" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-F4D03F?style=for-the-badge&logo=github&logoColor=1f1f1f" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🩺 Pasyente-Atiman App</h3>
+      <p align="center">
+        A telemedicine thesis app focused on accessible digital care, user-friendly patient flows, and practical health support.
+      </p>
+      <p align="center">
+        <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">♻️ Waste2Earn</h3>
+      <p align="center">
+        A hackathon-winning app concept built to encourage recycling through a decentralized product experience with real-world impact.
+      </p>
+      <p align="center">
+        <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌿 Himati</h3>
+      <p align="center">
+        A collaborative website project where I helped shape the design direction, layout clarity, and polished visual presentation.
+      </p>
+      <p align="center">
+        <a href="https://himati-website-development.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F7D02C" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎧 GamesBeat</h3>
+      <p align="center">
+        A game-focused web build designed around clean presentation, engaging content layout, and a polished user-facing experience.
+      </p>
+      <p align="center">
+        <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-111111?style=for-the-badge&logo=github&logoColor=F7D02C" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">⚡ More Loading</h3>
       <p align="center">
-        More polished case-study builds, UI showcases, and creative experiments are on the way.
+        More polished case studies, product concepts, and creative web builds are still on the way.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/In_Progress-111111?style=for-the-badge&logo=vercel&logoColor=F7D02C" />
