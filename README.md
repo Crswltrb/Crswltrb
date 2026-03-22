@@ -251,8 +251,8 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 ## ⚡ Pikachu Break
 
 <p align="center">
-  <img src="./assets/Pokemon%208bit%20GIF.gif" alt="Pokemon 8-bit pixel animation" width="360" height="360" />
-  <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="360" height="360" />
+  <img src="./assets/Pokemon%208bit%20GIF.gif" alt="Pokemon 8-bit pixel animation" width="343" />
+  <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="360" />
 </p>
 
 ---
