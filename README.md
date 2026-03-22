@@ -59,15 +59,15 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 ### Design and Creative
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-  <img src="https://img.shields.io/badge/SASS-111111?style=for-the-badge&logo=sass&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/AutoCAD-111111?style=for-the-badge&logo=autodesk&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/Premiere-111111?style=for-the-badge&logo=adobepremierepro&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/Lightroom-111111?style=for-the-badge&logo=adobelightroom&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/Filmora-111111?style=for-the-badge&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/Vegas_Pro-111111?style=for-the-badge&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/Ulead_VideoStudio-111111?style=for-the-badge&logoColor=F7D02C" />
-  <img src="https://img.shields.io/badge/ProShow_Producer-111111?style=for-the-badge&logoColor=F7D02C" />
+  <img src="./assets/SaaS%20Logo%20HD.png" alt="Sass" height="48" />
+  <img src="./assets/After%20Effects%20Logo.png" alt="After Effects" height="48" />
+  <img src="./assets/Premiere%20Pro%20Logo.png" alt="Premiere Pro" height="48" />
+  <img src="./assets/Lightroom%20Logo.png" alt="Lightroom" height="48" />
+  <img src="./assets/Filmora%20Logo.png" alt="Filmora" height="48" />
+  <img src="./assets/Vegas%20Pro%2013%20Logo.webp" alt="Vegas Pro" height="48" />
+  <img src="./assets/Ulead%20VideoStudio%20Logo.jpg" alt="Ulead VideoStudio" height="48" />
+  <img src="./assets/Proshow.png" alt="ProShow Producer" height="48" />
+  <img src="./assets/AutoCAD%20logo.png" alt="AutoCAD" height="48" />
 </p>
 
 ---
