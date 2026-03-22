@@ -40,6 +40,10 @@
 
 Computer Science-trained builder from the **University of the Philippines Mindanao** with hands-on experience across **UI/UX design, frontend development, freelance web design, layout artistry, CAD drafting, e-commerce support, and multimedia production**. I enjoy turning raw ideas into polished, user-centered experiences that feel clear, fast, and memorable.
 
+<p align="center">
+  <img src="./assets/Pokemon%20GIF%20Pixel.gif" alt="Pokemon pixel divider" width="360" />
+</p>
+
 ## ⚡ Pokemon Profile
 
 - `Name:` Chriswalter Bautista
@@ -219,8 +223,8 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 
 ## 🏅 Professional Highlights
 
-- `Hackathon Builder:` contributed to award-winning app and product concepts focused on real-world problems and clear user experience
-- `Guest Speaker:` shared Firebase and app development knowledge in community learning events
+- `Cross-Functional Builder:` able to move across UI/UX, frontend work, branding, and creative production depending on what the project needs
+- `Freelance Web Experience:` built responsive websites, landing pages, and portfolio experiences with clear structure and polished presentation
 - `Creative Lead Experience:` handled visual direction, publication materials, and design execution for org and event initiatives
 - `Project Support:` helped shape product ideas, usability improvements, and practical digital tools
 - `Design Committee Work:` created visuals and branding assets for developer and tech community events
@@ -247,7 +251,8 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 ## ⚡ Pikachu Break
 
 <p align="center">
-  <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="420" />
+  <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="360" />
+  <img src="./assets/Pokemon%208bit%20GIF.gif" alt="Pokemon 8-bit pixel animation" width="360" />
 </p>
 
 ---
