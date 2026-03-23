@@ -131,8 +131,8 @@ Computer Science-trained builder from the **University of the Philippines Mindan
         A game-inspired mobile platform concept with bold visuals, dark UI, and interactive presentation.
       </p>
       <p align="center">
-        <a href="https://github.com/Crswltrb/MonJeuMobile" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
+        <a href="https://mon-jeu-mobile.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
@@ -140,15 +140,15 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   <tr>
     <td width="50%">
       <h3 align="center">
-        <img src="./assets/Logo/Dooeeads-Favicon.png" alt="Vas Project favicon" width="28" height="28" /><br />
+        <img src="./assets/Logo/Dooeeads-Favicon.png" alt="Vas Project favicon" width="40" height="40" /><br />
         Vas Project
       </h3>
       <p align="center">
         A frontend project focused on clear layout structure, polished presentation, and practical product flow.
       </p>
       <p align="center">
-        <a href="https://github.com/Crswltrb/Dooeeads-Vas-Frontend" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
+        <a href="https://dooeeads-vas-frontend.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
         </a>
       </p>
     </td>
@@ -170,11 +170,11 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   <tr>
     <td width="50%">
       <h3 align="center">
-        <img src="./assets/Logo/ALLYMath-Favicon.png" alt="ALLYMath favicon" width="28" height="28" /><br />
+        <img src="./assets/Logo/ALLYMath-Favicon.png" alt="ALLYMath favicon" width="40" height="40" /><br />
         ALLYMath App
       </h3>
       <p align="center">
-        A mobile learning app developed with <strong>inokatech</strong>, the team behind an award-winning education concept focused on making math learning simpler, more engaging, and more guided for Filipino learners.
+        A mobile learning app developed with <strong>inokatech</strong>, focused on making math learning simpler and more engaging for Filipino learners.
       </p>
       <p align="center">
         <a href="" target="_blank">
