@@ -157,9 +157,9 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">♻️ Waste2Earn</h3>
+      <h3 align="center">🧮 ALLYMath App</h3>
       <p align="center">
-        A hackathon-winning app concept built to encourage recycling through a decentralized product experience with real-world impact.
+        A mobile learning app developed with <strong>inokatech</strong>, the team behind an award-winning education concept focused on making math learning simpler, more engaging, and more guided for Filipino learners.
       </p>
       <p align="center">
         <a href="" target="_blank">
