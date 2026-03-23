@@ -67,8 +67,8 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   <img src="https://cdn.simpleicons.org/make/6D00CC" alt="Make.com" height="48" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
   <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="./assets/Gazduire.png" alt="Gazduire.net" height="48" />
-  <img src="./assets/Voluum%20API%20Logo.png" alt="Voluum API" height="48" />
+  <img src="./assets/gz.png" alt="GZ" height="48" />
+  <img src="./assets/va.png" alt="VA" height="48" />
 </p>
 
 ### Workflow and AI
@@ -76,7 +76,7 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
   <img src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" height="48" />
   <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" height="48" />
-  <img src="./assets/Codex.png" alt="Codex" height="48" />
+  <img src="./assets/cx.png" alt="CX" height="48" />
 </p>
 
 ### Programming and Logic
@@ -87,14 +87,14 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 ### Design and Creative
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,ai" />
-  <img src="./assets/After%20Effects%20Logo.png" alt="After Effects" height="48" />
-  <img src="./assets/Premiere%20Pro%20Logo.png" alt="Premiere Pro" height="48" />
-  <img src="./assets/Lightroom%20Logo.png" alt="Lightroom" height="48" />
-  <img src="./assets/Filmora%20Logo.png" alt="Filmora" height="48" />
-  <img src="./assets/Vegas%20Pro%2013%20Logo.webp" alt="Vegas Pro" height="48" />
-  <img src="./assets/Ulead%20VideoStudio%20Logo.jpg" alt="Ulead VideoStudio" height="48" />
-  <img src="./assets/Proshow.png" alt="ProShow Producer" height="48" />
-  <img src="./assets/AutoCAD%20logo.png" alt="AutoCAD" height="48" />
+  <img src="./assets/ae.png" alt="AE" height="48" />
+  <img src="./assets/pr.png" alt="PR" height="48" />
+  <img src="./assets/lr.png" alt="LR" height="48" />
+  <img src="./assets/fm.png" alt="FM" height="48" />
+  <img src="./assets/vp.webp" alt="VP" height="48" />
+  <img src="./assets/uvs.jpg" alt="UVS" height="48" />
+  <img src="./assets/psh.png" alt="PSH" height="48" />
+  <img src="./assets/ac.png" alt="AC" height="48" />
 </p>
 
 ### Game and Interactive
