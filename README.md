@@ -109,10 +109,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
 <table>
   <tr>
     <td width="50%">
-      <p align="center">
-        <img src="./assets/Logo/Crawen-Favicon.png" alt="CrawenPay favicon" width="28" height="28" />
-      </p>
-      <h3 align="center">CrawenPay</h3>
+      <h3 align="center">
+        <img src="./assets/Logo/Crawen-Favicon.png" alt="CrawenPay favicon" width="28" height="28" /><br />
+        CrawenPay
+      </h3>
       <p align="center">
         A finance-focused product concept where I combine structure, branding, and clear UI thinking.
       </p>
@@ -123,10 +123,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
     </td>
     <td width="50%">
-      <p align="center">
-        <img src="./assets/Logo/MJM-favicon.png" alt="MonJeuMobile favicon" width="28" height="28" />
-      </p>
-      <h3 align="center">MonJeuMobile</h3>
+      <h3 align="center">
+        <img src="./assets/Logo/MJM-favicon.png" alt="MonJeuMobile favicon" width="28" height="28" /><br />
+        MonJeuMobile
+      </h3>
       <p align="center">
         A game-inspired mobile platform concept with bold visuals, dark UI, and interactive presentation.
       </p>
@@ -139,10 +139,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   </tr>
   <tr>
     <td width="50%">
-      <p align="center">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://dooeeads-vas-frontend.vercel.app/" alt="Vas Project favicon" width="28" height="28" />
-      </p>
-      <h3 align="center">Vas Project</h3>
+      <h3 align="center">
+        <img src="./assets/Logo/Dooeeads-Favicon.png" alt="Vas Project favicon" width="28" height="28" /><br />
+        Vas Project
+      </h3>
       <p align="center">
         A frontend project focused on clear layout structure, polished presentation, and practical product flow.
       </p>
@@ -153,7 +153,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Pasyente-Atiman App</h3>
+      <h3 align="center">
+        <img src="./assets/Logo/Pasyente-Atiman%20Favicon.png" alt="Pasyente-Atiman favicon" width="28" height="28" /><br />
+        Pasyente-Atiman App
+      </h3>
       <p align="center">
         A telemedicine thesis app focused on accessible digital care, user-friendly patient flows, and practical health support.
       </p>
@@ -166,10 +169,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   </tr>
   <tr>
     <td width="50%">
-      <p align="center">
-        <img src="./assets/Logo/ALLYMath-Favicon.png" alt="ALLYMath favicon" width="28" height="28" />
-      </p>
-      <h3 align="center">ALLYMath App</h3>
+      <h3 align="center">
+        <img src="./assets/Logo/ALLYMath-Favicon.png" alt="ALLYMath favicon" width="28" height="28" /><br />
+        ALLYMath App
+      </h3>
       <p align="center">
         A mobile learning app developed with <strong>inokatech</strong>, the team behind an award-winning education concept focused on making math learning simpler, more engaging, and more guided for Filipino learners.
       </p>
@@ -180,10 +183,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
       </p>
     </td>
     <td width="50%">
-      <p align="center">
-        <img src="./assets/Logo/Himati-favicon.webp" alt="Himati favicon" width="28" height="28" />
-      </p>
-      <h3 align="center">Himati</h3>
+      <h3 align="center">
+        <img src="./assets/Logo/Himati-favicon.webp" alt="Himati favicon" width="28" height="28" /><br />
+        Himati
+      </h3>
       <p align="center">
         A collaborative website project where I helped shape the design direction, layout clarity, and polished visual presentation.
       </p>
@@ -196,10 +199,10 @@ Computer Science-trained builder from the **University of the Philippines Mindan
   </tr>
   <tr>
     <td width="50%">
-      <p align="center">
-        <img src="./assets/Logo/gamesbeat-favicon.ico" alt="GamesBeat favicon" width="28" height="28" />
-      </p>
-      <h3 align="center">GamesBeat</h3>
+      <h3 align="center">
+        <img src="./assets/Logo/gamesbeat-favicon.ico" alt="GamesBeat favicon" width="28" height="28" /><br />
+        GamesBeat
+      </h3>
       <p align="center">
         A game-focused web build designed around clean presentation, engaging content layout, and a polished user-facing experience.
       </p>
