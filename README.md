@@ -1,289 +1,163 @@
-<h1 align="center">⚡ Chriswalter Bautista ⚡</h1>
-<h3 align="center">UI/UX Designer • Frontend Developer • Creative Builder</h3>
-
 <p align="center">
-  <img alt="Electric Type" src="https://img.shields.io/badge/Electric%20Type-1A1A1A?style=for-the-badge&logo=thunderbird&logoColor=F7D02C" />
-  <img alt="UI UX and Frontend" src="https://img.shields.io/badge/UI%2FUX%20%26%20Frontend-1A1A1A?style=for-the-badge&logo=figma&logoColor=F7D02C" />
-  <img alt="Davao City PH" src="https://img.shields.io/badge/Davao%20City%2C%20PH-1A1A1A?style=for-the-badge&logo=googlemaps&logoColor=F7D02C" />
+  <img src="./assets/profile-header.svg" alt="Chriswalter Bautista — Product and UI/UX Designer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Crswltrb">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=F7D02C" />
+  <a href="mailto:chriswalterbautista@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F7D02C?style=flat-square&logo=gmail&logoColor=111827" alt="Email Chriswalter Bautista" />
   </a>
   <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=F7D02C" alt="Chriswalter Bautista on LinkedIn" />
   </a>
-  <a href="mailto:chriswalterbautista@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=F7D02C" />
+  <a href="https://github.com/Crswltrb">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=F7D02C" alt="Chriswalter Bautista on GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Crswltrb"><strong>@Crswltrb</strong></a> •
-  <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b"><strong>Chriswalter Bautista</strong></a> •
-  <a href="mailto:chriswalterbautista@gmail.com"><strong>Say Hello</strong></a>
-</p>
+## Hello
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=F7D02C&center=true&vCenter=true&width=980&lines=Designing+clean+interfaces+with+electric+energy;Frontend+builder+with+a+creative+edge;UI%2FUX+%2B+code+%2B+branding+execution;Turning+rough+ideas+into+polished+digital+experiences" alt="Typing SVG" />
-</p>
+I am a design-led product builder and Computer Science graduate from the **University of the Philippines Mindanao**, based in **Tacurong City, Philippines**. I specialize in turning complex content and workflows into clear, accessible, and visually coherent digital experiences.
 
-<p align="center">
-  <img src="./assets/Pikachu%20Run%20Pixel%20Gif.gif" alt="Running Pikachu pixel art" width="300" />
-  <img src="./assets/Pikachu%20Pixel%20Game.gif" alt="Pikachu pixel art" width="300" />
-</p>
+My core strength is **product and UI/UX design**. I also build responsive frontend experiences, which lets me carry design intent from early concepts through implementation.
 
----
+## What I Do
 
-## ⚡ Trainer Card
+| Product & UX Design | Interface & Visual Design | Frontend Development |
+|:---|:---|:---|
+| User flows, information architecture, wireframes, prototypes, and usability-minded decisions. | Responsive UI, typography, visual hierarchy, component systems, and brand direction. | Design-faithful interfaces, responsive layouts, reusable components, and implementation review. |
 
-Computer Science-trained builder from the **University of the Philippines Mindanao** with hands-on experience across **UI/UX design, frontend development, freelance web design, layout artistry, CAD drafting, e-commerce support, and multimedia production**. I enjoy turning raw ideas into polished, user-centered experiences that feel clear, fast, and memorable.
+## Featured Work
 
-## ⚡ Pokemon Profile
-
-- `Name:` Chriswalter Bautista
-- `Base:` Davao City, Philippines
-- `Role Focus:` UI/UX design, frontend development, graphic design, web design, and creative support
-- `Education:` BS Computer Science, University of the Philippines Mindanao
-- `Special Moves:` UI/UX design, responsive web interfaces, branding, layout design, digital marketing creatives, and frontend execution
-- `Battle Style:` detail-focused, adaptable, collaborative, and strong in remote client work
-- `Language Levels:` English `Professional`, Tagalog `Native/Bilingual`, Hiligaynon `Native/Bilingual`, Cebuano `Limited Working`
-
-## 🧰 Thunder Toolkit
-
-### Frontend and Product
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,firebase,supabase" />
-</p>
-
-### Web Platforms, Hosting, and Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" height="48" />
-  <img src="https://cdn.simpleicons.org/gutenberg/FFFFFF" alt="Gutenberg" height="48" />
-  <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" alt="cPanel" height="48" />
-  <img src="https://cdn.simpleicons.org/namecheap/DE3723" alt="Namecheap" height="48" />
-  <img src="https://cdn.simpleicons.org/make/6D00CC" alt="Make.com" height="48" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="./assets/gz.png" alt="GZ" height="48" />
-  <img src="./assets/va.png" alt="VA" height="48" />
-</p>
-
-### Workflow and AI
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" height="48" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" height="48" />
-  <img src="./assets/cx.png" alt="CX" height="48" />
-</p>
-
-### Programming and Logic
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php" />
-</p>
-
-### Design and Creative
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai" />
-  <img src="./assets/ae.png" alt="AE" height="48" />
-  <img src="./assets/pr.png" alt="PR" height="48" />
-  <img src="./assets/lr.png" alt="LR" height="48" />
-  <img src="./assets/fm.png" alt="FM" height="48" />
-  <img src="./assets/vp.webp" alt="VP" height="48" />
-  <img src="./assets/uvs.jpg" alt="UVS" height="48" />
-  <img src="./assets/psh.png" alt="PSH" height="48" />
-  <img src="./assets/ac.png" alt="AC" height="48" />
-</p>
-
-### Game and Interactive
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,cpp" />
-</p>
-
----
-
-## 🎮 Featured Builds
+I designed and implemented the work below. My contribution spans product thinking, visual direction, UI/UX, and development. For **MonJeuMobile** and **GamesBeat**, I led the design and frontend implementation while the backend was developed separately.
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="./assets/Logo/Crawen-Favicon.png" alt="CrawenPay favicon" width="28" height="28" /><br />
-        CrawenPay
-      </h3>
-      <p align="center">
-        A finance-focused product concept where I combine structure, branding, and clear UI thinking.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/TrustedWeightGuide-Favicon.png" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <a href="https://github.com/Crswltrb/CrawenPay" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
-        </a>
-      </p>
+      <h3>Trusted Weight Guide</h3>
+      <p>A content-led experience shaped around clear information architecture, readable layouts, and confident navigation.</p>
+      <p><sub><strong>WEB DESIGN · UI/UX · FULL-STACK DEVELOPMENT</strong></sub></p>
     </td>
-    <td width="50%">
-      <h3 align="center">
-        <img src="./assets/Logo/MJM-favicon.png" alt="MonJeuMobile favicon" width="28" height="28" /><br />
-        MonJeuMobile
-      </h3>
-      <p align="center">
-        A game-inspired mobile platform concept with bold visuals, dark UI, and interactive presentation.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/ControlRX-Favicon.png" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <a href="https://mon-jeu-mobile.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
-        </a>
-      </p>
+      <h3>ControlRX</h3>
+      <p>A service-oriented experience that turns complex information into a structured and approachable user journey.</p>
+      <p><sub><strong>PRODUCT DESIGN · UI/UX · FULL-STACK DEVELOPMENT</strong></sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="./assets/Logo/Dooeeads-Favicon.png" alt="Vas Project favicon" width="40" height="40" /><br />
-        Vas Project
-      </h3>
-      <p align="center">
-        A frontend project focused on clear layout structure, polished presentation, and practical product flow.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/Dooeeads-Favicon.png" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <a href="https://dooeeads-vas-frontend.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
-        </a>
-      </p>
+      <h3>Dooeeads Media</h3>
+      <p>A cohesive brand and business website shaped through visual identity, clear hierarchy, and concise digital storytelling.</p>
+      <p><sub><strong>BRANDING · UI/UX DESIGN · FRONTEND DEVELOPMENT</strong></sub></p>
     </td>
-    <td width="50%">
-      <h3 align="center">
-        <img src="./assets/Logo/Pasyente-Atiman%20Favicon.png" alt="Pasyente-Atiman favicon" width="28" height="28" /><br />
-        Pasyente-Atiman App
-      </h3>
-      <p align="center">
-        A telemedicine thesis app focused on accessible digital care, user-friendly patient flows, and practical health support.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/Crawen-Favicon.png" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
-        </a>
-      </p>
+      <h3>CrawenPay</h3>
+      <p>A product interface exploration balancing clear user flows, a distinctive identity, and responsive presentation.</p>
+      <p><sub><strong>PRODUCT DESIGN · UI SYSTEMS · FULL-STACK DEVELOPMENT</strong></sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="./assets/Logo/ALLYMath-Favicon.png" alt="ALLYMath favicon" width="40" height="40" /><br />
-        ALLYMath App
-      </h3>
-      <p align="center">
-        A mobile learning app developed with <strong>inokatech</strong>, focused on making math learning simpler and more engaging for Filipino learners.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/MJM-favicon.png" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
-        </a>
-      </p>
+      <h3>MonJeuMobile</h3>
+      <p>A responsive game website designed for engaging discovery and a consistent experience across desktop and mobile.</p>
+      <p><sub><strong>UI/UX DESIGN · FRONTEND DEVELOPMENT</strong></sub></p>
     </td>
-    <td width="50%">
-      <h3 align="center">
-        <img src="./assets/Logo/Himati-favicon.webp" alt="Himati favicon" width="28" height="28" /><br />
-        Himati
-      </h3>
-      <p align="center">
-        A collaborative website project where I helped shape the design direction, layout clarity, and polished visual presentation.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/Pasyente-Atiman%20Favicon.png" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <a href="https://himati-website-development.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
-        </a>
-      </p>
+      <h3>Pasyente-Atiman</h3>
+      <p>A mobile application shaped around accessible interactions, intuitive navigation, and straightforward user flows.</p>
+      <p><sub><strong>PRODUCT DESIGN · MOBILE UI/UX · MOBILE DEVELOPMENT</strong></sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        <img src="./assets/Logo/gamesbeat-favicon.ico" alt="GamesBeat favicon" width="28" height="28" /><br />
-        GamesBeat
-      </h3>
-      <p align="center">
-        A game-focused web build designed around clean presentation, engaging content layout, and a polished user-facing experience.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/ALLYMath-Favicon.png" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-F7D02C?style=for-the-badge&logo=github&logoColor=1f1f1f" />
-        </a>
-      </p>
+      <h3>ALLYMath</h3>
+      <p>A mobile learning application designed to make educational content approachable, engaging, and easy to navigate.</p>
+      <p><sub><strong>MOBILE UI/UX · INTERACTION DESIGN · MOBILE DEVELOPMENT</strong></sub></p>
     </td>
-    <td width="50%">
-      <h3 align="center">More Loading</h3>
-      <p align="center">
-        More polished case studies, product concepts, and creative web builds are still on the way.
+    <td width="50%" valign="top">
+      <p>
+        <img src="./assets/Logo/gamesbeat-favicon.ico" alt="" width="32" height="32" />
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/In_Progress-F7D02C?style=for-the-badge&logo=vercel&logoColor=1f1f1f" />
-      </p>
+      <h3>GamesBeat</h3>
+      <p>A responsive game website focused on editorial hierarchy, content discovery, and clean desktop and mobile browsing.</p>
+      <p><sub><strong>UI/UX DESIGN · FRONTEND DEVELOPMENT</strong></sub></p>
     </td>
   </tr>
 </table>
 
----
+## Toolkit
 
-## 🚀 Experience Snapshot
+### Design & Creative Production
 
-- `Web Design:` responsive websites, landing pages, portfolio sites, and interface-focused builds for freelance and client work
-- `Frontend Work:` clean layouts, component-based UI, product pages, and web experiences designed to feel polished and easy to use
-- `Graphic and Layout Design:` merchandise, jerseys, hoodies, publication materials, business cards, logos, and visual branding systems
-- `Creative Support:` ad creatives, social content assets, short-form visuals, and campaign-oriented design work
-- `E-commerce and Operations:` online shop support, customer-facing workflows, listings, and marketplace-related tasks
-- `Technical and Drafting Work:` architectural drafting, plan revisions, and detail-oriented production work
-- `Multimedia Editing:` photo editing, video editing, and production-ready visual content using multiple editing tools
-
-<p align="center">
-  <img src="./assets/Pokemon%20GIF%20Pixel.gif" alt="Pokemon pixel divider" width="360" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai" alt="Figma, Adobe Photoshop, and Adobe Illustrator" />
+  <img src="./assets/ae.png" alt="Adobe After Effects" height="48" />
+  <img src="./assets/pr.png" alt="Adobe Premiere Pro" height="48" />
+  <img src="./assets/lr.png" alt="Adobe Lightroom" height="48" />
 </p>
 
----
+### Frontend & Web Platforms
 
-## 🏅 Professional Highlights
-
-- `Cross-Functional Builder:` able to move across UI/UX, frontend work, branding, and creative production depending on what the project needs
-- `Freelance Web Experience:` built responsive websites, landing pages, and portfolio experiences with clear structure and polished presentation
-- `Creative Lead Experience:` handled visual direction, publication materials, and design execution for org and event initiatives
-- `Project Support:` helped shape product ideas, usability improvements, and practical digital tools
-- `Design Committee Work:` created visuals and branding assets for developer and tech community events
-
----
-
-## 📊 Live GitHub Energy
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crswltrb&show_icons=true&rank_icon=github&bg_color=00000000&title_color=F7D02C&text_color=F5F5F5&icon_color=F7D02C&border_color=F7D02C&cache_seconds=21600" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crswltrb&layout=compact&bg_color=00000000&title_color=F7D02C&text_color=F5F5F5&border_color=F7D02C&cache_seconds=21600" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,php,wordpress" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Bootstrap, PHP, and WordPress" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Crswltrb&background=00000000&ring=F7D02C&fire=FFD43B&currStreakLabel=F7D02C&sideLabels=F5F5F5&dates=BDBDBD&sideNums=F5F5F5&currStreakNum=FFFFFF&border=F7D02C" />
+<p>
+  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" height="48" />
+  <img src="https://cdn.simpleicons.org/gutenberg/FFFFFF" alt="Gutenberg" height="48" />
+  <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" alt="cPanel" height="48" />
 </p>
 
-<p align="center">
-  <i>These cards auto-update, but not in true real time. Public GitHub stats cards are cached, so refreshes can lag by hours.</i>
+### Mobile, Backend & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,dart,firebase,supabase,aws" alt="Android Studio, Kotlin, Java, Swift, Dart, Firebase, Supabase, and AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" height="48" />
 </p>
 
----
+### Game Development
 
-## ⚡ Pikachu Break
-
-<p align="center">
-  <img src="./assets/Pokemon%208bit%20GIF.gif" alt="Pokemon 8-bit pixel animation" width="343" />
-  <img src="./assets/Pikachu%20Game%20Pixel.gif" alt="Pikachu pixel animation" width="360" />
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python" alt="Unity, C Sharp, C++, and Python" />
 </p>
 
----
+### Workflow & Automation
 
-## 🎵 Battle Theme
-
-<p align="center">
-  <i>"Design it clean. Build it right. Make it memorable."</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode" alt="Git, GitHub, Bitbucket, and VS Code" />
+  <img src="https://cdn.simpleicons.org/make/6D00CC" alt="Make.com" height="48" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" alt="Cursor" height="48" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" height="48" />
+  <img src="./assets/Logo/OpenAI-Codex.svg" alt="OpenAI Codex" height="48" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Crswltrb&label=Trainer%20Visits&color=f7d02c&style=for-the-badge" alt="profile views" />
+## Let’s Work Together
+
+I am open to freelance, collaborative, and remote opportunities in **product design, UI/UX, web design, and frontend development**.
+
+<p>
+  <a href="mailto:chriswalterbautista@gmail.com"><strong>Email me</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/chriswalter-bautista-53635921b"><strong>Connect on LinkedIn</strong></a>
 </p>
